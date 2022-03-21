@@ -449,12 +449,17 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs"
-"Assets/Standard Assets/Editor/Water/Water4/GerstnerDisplaceEditor.cs"
-"Assets/Standard Assets/Editor/Water/Water4/PlanarReflectionEditor.cs"
-"Assets/Standard Assets/Editor/Water/Water4/SpecularLightingEditor.cs"
-"Assets/Standard Assets/Editor/Water/Water4/WaterBaseEditor.cs"
-"Assets/Standard Assets/Editor/Water/Water4/WaterEditorUtility.cs"
+"Assets/Plugins/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs"
+"Assets/Plugins/Standard Assets/Editor/Water/Water4/GerstnerDisplaceEditor.cs"
+"Assets/Plugins/Standard Assets/Editor/Water/Water4/PlanarReflectionEditor.cs"
+"Assets/Plugins/Standard Assets/Editor/Water/Water4/SpecularLightingEditor.cs"
+"Assets/Plugins/Standard Assets/Editor/Water/Water4/WaterBaseEditor.cs"
+"Assets/Plugins/Standard Assets/Editor/Water/Water4/WaterEditorUtility.cs"
+"Assets/Plugins/StarterAssets/Editor/PackageChecker/PackageChecker.cs"
+"Assets/Plugins/StarterAssets/Editor/ScriptingDefineUtils.cs"
+"Assets/Plugins/StarterAssets/Editor/StarterAssetsDeployMenu.cs"
+"Assets/Plugins/StarterAssets/Editor/ThirdPersonStarterAssetsDeployMenu.cs"
+"Assets/Plugins/StarterAssets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs"
 -langversion:9.0
 
 /deterministic
